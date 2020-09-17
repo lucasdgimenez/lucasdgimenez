@@ -13,7 +13,7 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="vue" style="vertical-align:top; margin:4px">
 
-- 🌱 I’m currently learning ReacJs, NodeJs and API JSON
+- 🌱 I’m currently learning ReactJs
 - 🤔 I’m looking for a job as a front-end junior
 - 📫 How to reach me: 
 
