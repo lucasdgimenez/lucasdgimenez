@@ -19,4 +19,11 @@
 
 Site: https://lucasdiaswebdev.vercel.app/
 
+Principais projetos
+
+Deshboard (clique em entrar): https://isoscq.vercel.app/#/dashboard 
+Pet shop: https://petstoreserie.vercel.app/
+Vue flix (lista de filmes): 
+Cadastrando gastos: 
+
 <a href="https://www.linkedin.com/in/lucasdgimenez"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
