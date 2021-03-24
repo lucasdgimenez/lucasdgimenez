@@ -13,20 +13,17 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="vue" style="vertical-align:top; margin:4px">
 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs and NextJs
 - 🤔 I’m looking for a job as a front-end junior
-- 📫 How to reach me: 
-
-Site: https://lucasdiaswebdev.vercel.app/
 
 Principais projetos
 
 VueJs
 Deshboard: https://isoscq.vercel.app/#/dashboard <br> 
-Pet shop: https://petstoreserie.vercel.app/ <br>
-Vue flix (lista de filmes): https://vuemovies.vercel.app/ <br>
+Controle de finanças pessoais: https://moneycontrol.vercel.app/
+Lista de filmes: https://vuemovies.vercel.app/ <br>
 
 ReactJs
-Instalura https://instalura-lucas-lucasdgimenez.vercel.app/ <br>
+Instalura (projeto de bootcamp) https://instalura-lucas-lucasdgimenez.vercel.app/ <br>
 
 <a href="https://www.linkedin.com/in/lucasdgimenez"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
