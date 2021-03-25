@@ -20,7 +20,7 @@ Principais projetos
 
 VueJs
 Deshboard: https://isoscq.vercel.app/#/dashboard <br> 
-Controle de finanças pessoais: https://moneycontrol.vercel.app/
+Controle de finanças pessoais: https://moneycontrol.vercel.app/ <br>
 Lista de filmes: https://vuemovies.vercel.app/ <br>
 
 ReactJs
