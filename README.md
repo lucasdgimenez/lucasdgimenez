@@ -19,9 +19,12 @@
 Principais projetos
 
 VueJs
-Deshboard: https://isoscq.vercel.app/#/dashboard <br> 
 Controle de finanças pessoais: https://moneycontrol.vercel.app/ <br>
+Codigo: https://github.com/lucasdgimenez/transfernow <br>
 Lista de filmes: https://vuemovies.vercel.app/ <br>
+Codigo: https://github.com/lucasdgimenez/vueflix <br>
+Dashboard: https://isoscq.vercel.app/#/dashboard <br> 
+Codigo: https://github.com/lucasdgimenez/isoscq <br>
 
 ReactJs
 Instalura (projeto de bootcamp) https://instalura-lucas-lucasdgimenez.vercel.app/ <br>
