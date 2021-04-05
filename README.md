@@ -18,13 +18,13 @@
 
 Principais projetos
 
-VueJs
+VueJs <br>
 Controle de finanças pessoais: https://moneycontrol.vercel.app/ <br>
-Codigo: https://github.com/lucasdgimenez/transfernow <br>
+Codigo: https://github.com/lucasdgimenez/transfernow <br> <br>
 Lista de filmes: https://vuemovies.vercel.app/ <br>
-Codigo: https://github.com/lucasdgimenez/vueflix <br>
+Codigo: https://github.com/lucasdgimenez/vueflix <br> <br>
 Dashboard: https://isoscq.vercel.app/#/dashboard <br> 
-Codigo: https://github.com/lucasdgimenez/isoscq <br>
+Codigo: https://github.com/lucasdgimenez/isoscq <br> <br>
 
 ReactJs
 Instalura (projeto de bootcamp) https://instalura-lucas-lucasdgimenez.vercel.app/ <br>
