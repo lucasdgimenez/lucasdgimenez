@@ -5,16 +5,15 @@
 -->
 
 
-- 🔭 Skills and tools: HTML, CSS, JS, React and Bootstrap
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+- 🔭 Skills and tools: HTML, CSS, JS, VueJs and Bootstrap
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="vue" style="vertical-align:top; margin:4px">
 
-- 🌱 I’m currently learning VueJs
-- 🖥️ FrontEnd Developer Jr
+- 🌱 I’m currently learning PHP and Angular 
+- 🖥️ FrontEnd Developer
 
 Principais projetos
 
@@ -25,8 +24,5 @@ Lista de filmes: https://vuemovies.vercel.app/ <br>
 Codigo: https://github.com/lucasdgimenez/vueflix <br> <br>
 Dashboard: https://isoscq.vercel.app/#/dashboard <br> 
 Codigo: https://github.com/lucasdgimenez/isoscq <br> <br>
-
-ReactJs
-Instalura (projeto de bootcamp) https://instalura-lucas-lucasdgimenez.vercel.app/ <br>
 
 <a href="https://www.linkedin.com/in/lucasdgimenez"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
