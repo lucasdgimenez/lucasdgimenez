@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 Skills and tools: HTML, CSS, JS, VueJs and Bootstrap
+- 🔭 Skills and tools: PHP, Laravel, SQL, HTML, CSS, JS, VueJs and Bootstrap
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
