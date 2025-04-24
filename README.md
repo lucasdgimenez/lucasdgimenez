@@ -11,9 +11,10 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="vue" style="vertical-align:top; margin:4px">
 
-- 🌱 I’m currently learning PHP and Angular 
-- 🖥️ FrontEnd Developer
+- 🌱 I’m currently learning Python and Langchain 
+- 🖥️ Backend Developer
 
 Principais projetos
 
